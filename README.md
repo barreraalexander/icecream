@@ -21,3 +21,11 @@ Text me when you have that ready or if you have problems :)
   5. type the command `code .`
   6. vscode should automatically open, if it doesn't, get just have to do some configuring.
   7. let me know if you have any problems :)
+
+
+👉 Next set of steps(1/5/23 3:51pm):
+  1. go back into the terminal, we're going to play around with git, so that you no longer have to visit this webpage. You can type some commands, and your machine will pull the changes that I made to the README.md
+  2. In vscode, take a look at the README.md. Note that it's an older version of this README.md file, and it won't have these instructions. 
+  3. Go back into the gitbash terminal, and with /icecream as your working directory type this command: `git pull`
+  4. `git pull` is going to pull the updated code. From then on, you won't need to come to this webpage, just type the command :)
+  5. Text me when you get that far! 
