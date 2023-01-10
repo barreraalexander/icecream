@@ -10,6 +10,7 @@ p, a, li, ul{
     margin: 0;
     padding: 0;
     color: #fff;
+    /* font-size: 1.1em; */
 }
 
 
@@ -18,6 +19,13 @@ p, a, li, ul{
     background-color: #000;
     height: 100vh;
     width: 100vw;
+
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    gap: 1em;
+    overflow: hidden;
+
 }
 
 
@@ -31,10 +39,22 @@ h1{
     font-size: 8em;
 }
 
+p{
+    font-size: 1.2em;
+}
+
 .tiny_text{
     font-size: .5em;
 }
 
 .yellow_text{
     color: yellow;
+}
+
+#good_food{
+    width: 20em;
+}
+
+#good_food:hover{
+    filter: contrast(2);
 }
