@@ -29,3 +29,12 @@ Text me when you have that ready or if you have problems :)
   3. Go back into the gitbash terminal, and with /icecream as your working directory type this command: `git pull`
   4. `git pull` is going to pull the updated code. From then on, you won't need to come to this webpage, just type the command :)
   5. Text me when you get that far! 
+
+
+
+👉 Next set of steps(1/9/23 7:06pm):
+  1. first thing you're going to do is open up git bash.
+  2. cd into the location of our project: `cd github/icecream`
+  3. open vs code at this location with the command `code .`
+  4. without leaving git bash, pull the latest version of the code. You should see an html file, css file, and js file.
+
